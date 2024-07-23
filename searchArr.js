@@ -17,14 +17,7 @@ var arrF=[20,30,40,50,60,70];
 var result=arr.apply(this,arrF);
 console.log(result);
 /*********************************************************************************************** */
-/*var input=300;
-var myArr=[20,30,40,50,60,70]
-for(var i=0;i<myArr.length;i++){
-    if(input==myArr[i]){
-        console.log("element is available");
-        break;
-    }
-}*/
+
 
 /********************************************************************************** */
 /*class SearchArr {
